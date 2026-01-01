@@ -11,7 +11,7 @@ Video file used is https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen2-VL/spac
 
 # Limitation.
 
-Currently, this portal only allows vision to text. Vision extraction to PDF or PPT is not supported.
+Currently, this portal only allows vision to text. Vision extraction to PDF or PPT is not supported. Have not tested video speech to text, since the sample video is without speech or audio.
 
 # Challenges
 
